@@ -16,3 +16,4 @@ Edit Makefile to point to the c++ compiler on the local machine.
 To compile, type "make -f Makefile"
 To run, type "./sim".
   
+
